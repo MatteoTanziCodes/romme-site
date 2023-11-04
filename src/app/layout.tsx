@@ -3,6 +3,7 @@ import Favicon from '/public/favicon.ico';
 import { Inter } from 'next/font/google'
 import '../styles/globals.css'
 import Head from 'next/head';
+var formdata = require('form-data');
 
 const inter = Inter({ subsets: ['latin'] })
 
